@@ -1,0 +1,3 @@
+module SingletonPattern {
+	exports main;
+}
