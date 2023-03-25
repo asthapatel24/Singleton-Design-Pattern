@@ -1,1 +1,1 @@
-# SingletonPatternAssignment
+# Singleton Pattern Example
